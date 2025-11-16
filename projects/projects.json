@@ -41,7 +41,7 @@
   },
   {
     "name": "Weather App",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "desc": "Made completely using ReactJS and TailwindCSS. Fetches weather data from OpenWeatherMap API.",
     "image": "weather",
     "category": "mern",
     "links": {
